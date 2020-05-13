@@ -205,7 +205,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add origin https://github.com/nebado/coding-interview-university`
 
 `git fetch --all`
 
@@ -214,8 +214,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 `git add .`
 
 `git commit -m "Marked x"`
-
-`git rebase jwasham/master`
 
 `git push --force`
 
@@ -240,7 +238,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
