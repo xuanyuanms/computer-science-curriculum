@@ -1,55 +1,8 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
->
-> The items listed here will prepare you well for a technical interview at just about any software company,
-> including the giants: Amazon, Facebook, Google, and Microsoft.
->
-> *Best of luck to you!*
-
-<details>
-<summary>Translations:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
-
-</details>
-
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
@@ -265,7 +218,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 
 - C++
 - Java
-- [x] Python
+- Python
 
 You could also use these, but read around first. There may be caveats:
 
@@ -412,14 +365,6 @@ Take a break from programming problems for a half hour and go through your flash
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music 
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- SQL
-- Javascript
-- HTML, CSS, and other front-end technologies
-
 ## The Daily Plan
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
@@ -442,15 +387,21 @@ Why code in all of these?
 I may not have time to do all of these for every subject, but I'll try.
 
 You can see my code here:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
+ - [C](https://github.com/Nebado/practice-c)
+ - [C++](https://github.com/Nebado/practice-cpp)
+ - [Python](https://github.com/Nebado/practice-python)
+ - [PHP](https://github.com/Nebado/practice-php)
+ - [Javascript](https://github.com/Nebado/practice-javascript)
 
 You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
+
+- [x] [Computer Science: An Overview (12th Edition)](https://www.amazon.com/Computer-Science-Overview-Glenn-Brookshear/dp/0133760065)
+
+- [ ] [Introduction to Computing Systems: From Bits and Gates to C and Beyond](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509)
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
